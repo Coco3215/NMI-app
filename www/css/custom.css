@@ -1,0 +1,139 @@
+/* resets the margin of the test in the header so that it fills the entire width */
+.ui-header .ui-title{
+margin: 0;
+}  
+
+.ui-collapsible-heading {
+	margin: 0 1em;
+}
+
+.ui-collapsible-content  {
+	margin: 0 1em;
+}
+
+.ui-collapsible-heading .ui-btn { 
+border-width: 0px !important; 
+}
+
+.ui-mobile .ui-page .ui-content .ui-collapsible .ui-collapsible-heading .ui-btn-text {
+    white-space : normal;
+}
+
+/*  coloured borders on front images */
+#boat{
+margin: 1px 4px 1px 3px;
+float: right;/*
+padding: 3px #000000 solid;
+border: 1px #fff solid;*/
+border: 5px #D8872E solid;
+-webkit-box-shadow: 2px 2px 5px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 2px 2px 5px 0px rgba(0,0,0,0.75);
+box-shadow: 2px 2px 5px 0px rgba(0,0,0,0.75);
+}
+#flora{
+margin: 1px 4px 1px 3px;
+float: right;/*
+padding: 3px #000000 solid;
+border: 1px #fff solid;*/
+border: 5px  #e56d7b solid;
+-webkit-box-shadow: 2px 2px 5px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 2px 2px 5px 0px rgba(0,0,0,0.75);
+box-shadow: 2px 2px 5px 0px rgba(0,0,0,0.75);
+}
+#cross{
+margin: 1px 4px 1px 3px;
+border: 5px #969C54 solid;/*
+border-bottom: 2px #111111 solid;*/
+-webkit-box-shadow: 2px 2px 5px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 2px 2px 5px 0px rgba(0,0,0,0.75);
+box-shadow: 2px 2px 5px 0px rgba(0,0,0,0.75);
+}
+#tiger{
+margin: 1px 4px 1px 3px;
+border: 5px #6799c8 solid;/*
+border-bottom: 2px #111111 solid;*/
+-webkit-box-shadow: 2px 2px 5px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 2px 2px 5px 0px rgba(0,0,0,0.75);
+box-shadow: 2px 2px 5px 0px rgba(0,0,0,0.75);
+}
+
+div.arch{
+	background-color:#D8872E;
+	color:#FFF;
+	border-bottom: 1px #777 solid;
+	padding:8px 15px 3px 15px;
+	text-shadow: 0 /*{c-body-shadow-x}*/ 0px /*{c-body-shadow-y}*/ 0 /*{c-body-shadow-radius}*/ #000000/*{c-body-shadow-color}*/;
+}
+div.dec{
+	background-color:#E26F76;
+	color:#FFF;
+	border-bottom: 1px #777 solid;
+	padding:8px 15px 3px 15px;
+	text-shadow: 0 /*{c-body-shadow-x}*/ 0px /*{c-body-shadow-y}*/ 0 /*{c-body-shadow-radius}*/ #000000/*{c-body-shadow-color}*/;
+}
+div.nh{
+	background-color:#7C92B7;
+	color:#FFF;
+	border-bottom: 1px #777 solid;
+	padding:8px 15px 3px 15px;
+	text-shadow: 0 /*{c-body-shadow-x}*/ 0px /*{c-body-shadow-y}*/ 0 /*{c-body-shadow-radius}*/ #000000/*{c-body-shadow-color}*/;
+}
+div.cl{
+	background-color:#969C54;
+	color:#FFF;
+	border-bottom: 1px #777 solid;
+	padding:8px 15px 3px 15px;
+	text-shadow: 0 /*{c-body-shadow-x}*/ 0px /*{c-body-shadow-y}*/ 0 /*{c-body-shadow-radius}*/ #000000/*{c-body-shadow-color}*/;
+}
+h5.title{
+	display: block;
+	font-size: 1em;
+		-webkit-margin-before: 0px;
+		-webkit-margin-after: 0px;
+		-webkit-margin-start: 0px;
+		-webkit-margin-end: 0px;
+	font-weight: bold;
+	
+}
+img.icon{
+ float: right;
+}
+img.right{
+ float: right;
+ margin: 0 0 10px 10px;
+}
+
+.custom-corners .ui-bar {
+  -webkit-border-top-left-radius: 0.75em;
+  border-top-left-radius: 0.75em;
+  -webkit-border-top-right-radius: 0.75em;
+  border-top-right-radius:0.75em;
+  margin-top : 1em;
+  }
+.custom-corners .ui-body {
+  border-top-width: 0;
+  -webkit-border-bottom-left-radius: 0.75em;
+  border-bottom-left-radius: 0.75em;
+  -webkit-border-bottom-right-radius: 0.75em;
+  border-bottom-right-radius: 0.75em;
+}
+
+#banner{
+margin: 0 0 1em 0;
+}
+
+.ui-checkbox{
+	margin : 0;
+}
+
+p.smallerText{
+font-size: 0.875em;
+clear:both;
+}
+
+.left{
+float: left;
+}
+
+
+				
